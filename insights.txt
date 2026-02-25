@@ -1,0 +1,6 @@
+--- Insights ---
+1. Most Essential Feature: CPA Exam Prep
+2. Comparison: Technical Skills (2.79) vs Networking/Recruiting
+   - Networking (Peers/Alumni): 3.60
+   - Recruiting/Internships: 4.30
+   -> Students value Technical Skills more than Networking and Recruiting.
